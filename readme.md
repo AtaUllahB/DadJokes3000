@@ -10,7 +10,7 @@
 <h1>DadJoke 3000 with DALL·E</h1>
 
 
-<img src="https://github.com/AtaUllahB/Theatre/blob/master/screenshots/login.png](https://github.com/AtaUllahB/DadJokes3000/blob/c7a382e20afdcf57a16b3b8eb32f6685d099338b/demo.gif?raw=true">
+<img src="https://github.com/AtaUllahB/DadJokes3000/blob/main/demo.gif?raw=true">
 
 
 <p>This is a simple joke generation application using <strong>Tkinter</strong>, <strong>OpenAI GPT</strong>, and <strong>DALL·E</strong> to generate funny dad jokes and create images based on the jokes.</p>
