@@ -1,0 +1,9 @@
+openai>=0.27.0
+pillow>=9.1.0
+requests>=2.28.0
+tk
+
+# pip install openai
+# python3 -m pip install requests
+# sudo apt-get install python3-tk
+# pip install Pillow
